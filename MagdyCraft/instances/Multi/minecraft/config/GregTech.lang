@@ -1,5 +1,5 @@
 # Configuration file
-# Generated on 02/12/12 18:07
+# Generated on 15/12/12 21:49
 
 ####################
 # languagefile
@@ -57,6 +57,7 @@ languagefile {
     S:item.GT_Dusts.12.name=Manganese Dust
     S:item.GT_Dusts.13.name=Magnesium Dust
     S:item.GT_Dusts.14.name=Sphalerite Dust
+    S:item.GT_Dusts.15.name=Wood Pulp
     S:item.GT_Dusts.16.name=Uranium Dust
     S:item.GT_Dusts.17.name=Bauxite Dust
     S:item.GT_Dusts.18.name=Aluminium Dust
@@ -89,11 +90,15 @@ languagefile {
     S:item.GT_Dusts.6.name=Netherrack Dust
     S:item.GT_Dusts.60.name=Grossular Dust
     S:item.GT_Dusts.61.name=Uvarovite Dust
+    S:item.GT_Dusts.62.name=Ashes
+    S:item.GT_Dusts.63.name=Dark Ashes
     S:item.GT_Dusts.7.name=Flint Dust
     S:item.GT_Dusts.8.name=Sulfur Dust
     S:item.GT_Dusts.9.name=Saltpeter Dust
     S:item.GT_Materials.0.name=Copper Credit
     S:item.GT_Materials.1.name=Silver Credit
+    S:item.GT_Materials.13.name=Magnalium Plate
+    S:item.GT_Materials.15.name=Wood Plate
     S:item.GT_Materials.16.name=Iridium Ingot
     S:item.GT_Materials.17.name=Silver Ingot
     S:item.GT_Materials.18.name=Aluminium Ingot
@@ -125,6 +130,7 @@ languagefile {
     S:item.GT_SmallDusts.12.name=Tiny Pile of Manganese Dust
     S:item.GT_SmallDusts.13.name=Tiny Pile of Magnesium Dust
     S:item.GT_SmallDusts.14.name=Tiny Pile of Sphalerite Dust
+    S:item.GT_SmallDusts.15.name=Tiny Pile of Wood Pulp
     S:item.GT_SmallDusts.16.name=Tiny Pile of Uranium Dust
     S:item.GT_SmallDusts.17.name=Tiny Pile of Bauxite Dust
     S:item.GT_SmallDusts.18.name=Tiny Pile of Aluminium Dust
@@ -168,6 +174,8 @@ languagefile {
     S:item.GT_SmallDusts.6.name=Tiny Pile of Netherrack Dust
     S:item.GT_SmallDusts.60.name=Tiny Pile of Grossular Dust
     S:item.GT_SmallDusts.61.name=Tiny Pile of Uvarovite Dust
+    S:item.GT_SmallDusts.62.name=Tiny Pile of Ashes
+    S:item.GT_SmallDusts.63.name=Tiny Pile of Dark Ashes
     S:item.GT_SmallDusts.7.name=Tiny Pile of Flint Dust
     S:item.GT_SmallDusts.8.name=Tiny Pile of Sulfur Dust
     S:item.GT_SmallDusts.9.name=Tiny Pile of Saltpeter Dust
@@ -223,6 +231,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_ImplosionCompressor.name=Implosion Compressor
     S:tile.BlockMetaID_Machine.GT_QuantumTank.name=Quantum Tank
     S:tile.BlockMetaID_Machine.GT_RockBreaker.name=Electric Rock Breaker
+    S:tile.BlockMetaID_Machine.GT_Sawmill.name=Industrial Sawmill
     S:tile.BlockMetaID_Machine.GT_Scrapboxinator.name=Scrapboxinator
     S:tile.BlockMetaID_Machine.GT_Translocator.name=Electric Translocator
     S:tile.BlockMetaID_Machine.GregTech_Computercube.name=GregTech Computer Cube
